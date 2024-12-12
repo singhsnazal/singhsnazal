@@ -8,7 +8,7 @@
 - 🏏 Passionate about **Sports Analytics**, with hands-on experience in **Computer Vision** and **Image Processing**
 - 🌱 I’m currently advancing my knowledge in **AI-driven insights** and **real-time analytics platforms**
 - 🤝 I’m looking to collaborate on impactful projects in **AI & Sports Technology**
-- 📫 You can reach me at **snazal@gmail.com**
+- 📫 You can reach me at **singhsnazal23@gmail.com**
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: I’m blending my love for **sports** and **technology** to revolutionize performance analytics!
 

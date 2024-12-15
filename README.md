@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Snazal Singh</h1>
 <h3 align="center">Project Associate | Sports Analyst | Computer Vision Enthusiast</h3>
 
-<img align="right" src="favicon-aman.png" alt="Profile Banner" width="100" />
+<img align="right" src="" alt="Profile Banner" width="100" />
 
 - 🎓 **MCA Graduate (2023)** from **Central University of Karnataka**
 - 💼 Currently working as a **Project Associate** at **IIT Madras**, under **CESSA**
